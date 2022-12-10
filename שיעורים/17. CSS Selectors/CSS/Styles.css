@@ -1,0 +1,35 @@
+h1{
+    color: red;
+    font-size: 200px;
+}
+
+/****לא משנה מה היה לפני כן יש לנו איפוס על הבררן****/
+
+#heading{
+    color: blue;
+}
+
+
+img:hover{
+    background-color: gold;
+}
+
+
+.bacon{
+    background-color: green;
+}
+
+.broccoli{
+    background-color: red;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+
+/*
+
+this is a CSS Comment 
+
+*/
